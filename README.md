@@ -1,0 +1,2 @@
+# newProject
+Başlıyoruz beyler
